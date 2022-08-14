@@ -37,5 +37,13 @@ del repositorio al igual de un comprobante de los commits que se realizaron.
 
 [Hipervinculo al github](https://github.com/hacUPB/evaluacion-1-Phentecost) 
 
+Lista de comandos
 
+Clonar un repositorio: git clone <URL_del_repositorio>
+
+Adicionar el archivo wcat.c al STAGE: git add wcar.c
+
+Realizar un Commit: git commit -m "Commit"
+
+sincronizar con el repositorio remoto: git push
 
