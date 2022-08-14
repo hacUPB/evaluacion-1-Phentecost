@@ -21,3 +21,5 @@ int main(int argc, char* argv[]) {
     fclose(fin);
     exit(EXIT_SUCCESS);
 }
+
+//No se logro realizar la comprovacion. 
