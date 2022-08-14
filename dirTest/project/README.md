@@ -31,6 +31,7 @@ no se logro abrir de ninguna forma. Se intento utilizar windows con herramientas
 y se intento ejecutar en el programa, desafortunadamente no se dio, lo mismo se hiso con linux fedora y tampoco se dio. El comprobane de los errores se añadira en una nueva carpeta dentro
 del repositorio al igual de un comprobante de los commits que se realizaron. 
 
+ 
 
 
 
