@@ -23,7 +23,7 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
-					<h1>Evaluacion1<h1>
+<h1>Evaluacion</h1> 
 
 En el presente trabajo se modifico el repositorio proporcionado por el docente, el cual se clono utilizando la herramienta de git. En el repositorio, se accedio a la carpeta
 correspondiente al trabajo y se modifico el archivo wcat.c con el codigo proporcionado por el profesor. No se logro realizar evaluacion del archivo ya que el script "test-wcat.sh"
@@ -33,7 +33,7 @@ del repositorio al igual de un comprobante de los commits que se realizaron.
 
  
  
-![Image text](https://github.com/hacUPB/evaluacion-1-Phentecost/blob/main/dirTest/project/Imagen/Git.jpg)
+![Image text](https://github.com/hacUPB/evaluacion-1-Phentecost/blob/main/dirTest/project/Imagen/GIt.jpg)
 
 [Hipervinculo al github](https://github.com/hacUPB/evaluacion-1-Phentecost) 
 
