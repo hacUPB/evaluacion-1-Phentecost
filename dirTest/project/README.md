@@ -23,5 +23,27 @@ the relevant
 [README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
 for details.
 
+<h1>Evaluacion</h1> 
 
+En el presente trabajo se modifico el repositorio proporcionado por el docente, el cual se clono utilizando la herramienta de git. En el repositorio, se accedio a la carpeta
+correspondiente al trabajo y se modifico el archivo wcat.c con el codigo proporcionado por el profesor. No se logro realizar evaluacion del archivo ya que el script "test-wcat.sh"
+no se logro abrir de ninguna forma. Se intento utilizar windows con herramientas externas y las subfunciones de linux y no se pudo. Tambien se creo una usb booteable con linux Ubuntu 
+y se intento ejecutar en el programa, desafortunadamente no se dio, lo mismo se hiso con linux fedora y tampoco se dio. El comprobane de los errores se añadira en una nueva carpeta dentro
+del repositorio al igual de un comprobante de los commits que se realizaron. 
+
+ 
+ 
+![Image text](https://github.com/hacUPB/evaluacion-1-Phentecost/blob/main/dirTest/project/Imagen/GIt.jpg)
+
+[Hipervinculo al github](https://github.com/hacUPB/evaluacion-1-Phentecost) 
+
+Lista de comandos
+
+Clonar un repositorio: git clone <URL_del_repositorio>
+
+Adicionar el archivo wcat.c al STAGE: git add wcar.c
+
+Realizar un Commit: git commit -m "Commit"
+
+sincronizar con el repositorio remoto: git push
 
